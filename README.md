@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mubashir-Ul-Hassan
-- 👀 I’m interested in Programming & Coding
-- 🌱 I’m currently learning Programming & Coding
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me akhtarmubashir809@gmail.com
 
 <!---
