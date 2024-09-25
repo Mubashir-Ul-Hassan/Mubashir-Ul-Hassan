@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mubashir-Ul-Hassan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on NLP
+- 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me akhtarmubashir809@gmail.com
 
 <!---
