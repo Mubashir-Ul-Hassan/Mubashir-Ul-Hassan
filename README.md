@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Science** enthusiast with 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mubashir-ul-hassan/)
 - 📧 Email: [akhtarmubashir809@gmail.com](mailto:akhtarmubashir809@gmail.com)
-- 🌐 [Portfolio Website](https://yourportfolio.com)
 
 ---
 
