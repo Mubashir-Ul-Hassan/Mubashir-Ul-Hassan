@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Science** enthusiast with 
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, SQL, Power BI
-- **Frameworks**: TensorFlow, PyTorch, Scikit-Learn
+- **Frameworks**: Scikit-Learn
 - **Tools**: Tableau, BigQuery, Git, Jupyter, MySQL
 
 ---
