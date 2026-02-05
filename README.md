@@ -1,70 +1,143 @@
-# 👋 Hi, I'm Mubashir Ul Hassan
+<div align="center">
+  
+# 👋 Hey, I'm Mubashir Ul Hassan
 
-Welcome to my GitHub profile! I'm a passionate **Data Science** enthusiast with a focus on **Machine Learning (ML)** and **Data Analytics**. I love exploring the intersection of technology and data, and I'm always eager to learn and collaborate on impactful projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist+%7C+ML+Engineer;Generative+AI+%26+LLM+Enthusiast;Building+AI+Solutions+That+Matter)](https://git.io/typing-svg)
 
----
-
-## 🚀 About Me
-
-- 🔭 I’m constantly working on enhancing my **Data Science** and **Machine Learning** skills.
-- 🌱 Currently diving deep into **Data Analytics** to extract meaningful insights from data.
-- 🤝 Open to collaborating on exciting **ML** projects and innovative solutions.
-- 💬 Ask me anything related to **Data Science**, **AI**, or **Python**—I'm always happy to help!
-
----
-
-## 🛠️ Skills & Tools
-
-- **Languages**: Python, SQL, Power BI
-- **Frameworks**: Scikit-Learn
-- **Tools**: Tableau, BigQuery, Git, Jupyter, MySQL
-
----
-
-## 📫 How to Reach Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mubashir-ul-hassan/)
-- 📧 Email: [akhtarmubashir809@gmail.com](mailto:akhtarmubashir809@gmail.com)
-
----
-
-## 🌟 Fun Facts About Me
-
-- 🚀 I'm always up for a new challenge, especially related to **Generative AI** or **Cloud Data Analytics**.
-- 🧠 Learning something new every day—because the world of AI never stops evolving!
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mubashir-Ul-Hassan&show_icons=true&theme=radical" alt="Mubashir's GitHub Stats" />
+<p>
+  <a href="https://www.linkedin.com/in/mubashir-ul-hassan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akhtarmubashir809@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://huggingface.co/MubashirUlHassan"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Mubashir-Ul-Hassan&style=for-the-badge&color=6C63FF" alt="Profile Views" />
+
+</div>
+
 ---
 
-## 🎯 Current Goals
+## 🧠 About Me
 
-- ⚡ **Sharpening my knowledge** in **Data Science** and **ML** through practical projects.
-- 📚 Exploring advanced topics in **Generative AI** and **Deep Learning**.
-- 💼 Building a strong network with other professionals in the **Data Science** field.
+```python
+class MubashirUlHassan:
+    def __init__(self):
+        self.role = "Data Scientist & AI Engineer"
+        self.focus = ["Generative AI", "LLMs", "Machine Learning"]
+        self.currently_learning = ["RAG Systems", "Fine-tuning LLMs", "Prompt Engineering"]
+        self.ask_me_about = ["Data Science", "Python", "ML", "GenAI"]
+        
+    def get_daily_routine(self):
+        return ["☕ Coffee", "💻 Code", "🤖 Train Models", "📚 Learn", "🔁 Repeat"]
+```
+
+---
+
+## 🔥 What I'm Working On
+
+- 🤖 Building **AI-powered applications** using Large Language Models
+- 📊 Creating **interactive dashboards** for data-driven insights
+- 🧪 Experimenting with **prompt engineering** and **RAG systems**
+- 🚀 Deploying ML models on **Hugging Face Spaces**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Generative AI & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
+
+### Tools & Platforms
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
-- 🔍 **Data Analytics Dashboard**: An interactive dashboard using Power BI for **real-time data insights**.
-- 🤖 **ML Model for Text Generation**: A **character-level RNN** trained on Shakespeare's texts.
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🐦 **[Twitter Sentiment Analyzer](https://huggingface.co/spaces/MubashirUlHassan/Twitter-Sentiment-Analyzer)** | NLP app for real-time tweet sentiment analysis | DistilBERT, Gradio, HF |
+| 📊 **Data Analytics Dashboard** | Interactive Power BI dashboard for insights | Power BI, SQL |
+| 🤖 **ML Text Generator** | Character-level RNN trained on Shakespeare | PyTorch, RNN |
+
+</div>
 
 ---
 
-## 💻 Let's Collaborate!
+## 📈 GitHub Stats
 
-I'm always open to working on exciting projects and contributing to the **open-source** community. If you have a project or idea in **Data Science** or **Machine Learning**, feel free to reach out!
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mubashir-Ul-Hassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-Ul-Hassan&theme=tokyonight&hide_border=true&background=0D1117" />
 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir-Ul-Hassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
+</div>
 
-<!---
-Mubashir-Ul-Hassan/Mubashir-Ul-Hassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mubashir-Ul-Hassan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Master **Generative AI** and build production RAG systems
+- [ ] Contribute to **open-source AI** projects
+- [ ] Fine-tune a custom **LLM** for specific use cases
+- [ ] Get certified in **Google Cloud ML** or **AWS AI**
+- [ ] Build 5+ AI projects and deploy to production
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/Mubashir-Ul-Hassan/Mubashir-Ul-Hassan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect and Build Something Amazing!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
