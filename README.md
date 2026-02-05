@@ -75,7 +75,7 @@ class MubashirUlHassan:
 |---------|-------------|------------|
 | 🐦 **[Twitter Sentiment Analyzer](https://huggingface.co/spaces/MubashirUlHassan/Twitter-Sentiment-Analyzer)** | NLP app for real-time tweet sentiment analysis | DistilBERT, Gradio, HF |
 | 📊 **Data Analytics Dashboard** | Interactive Power BI dashboard for insights | Power BI, SQL |
-| 🤖 **ML Text Generator** | Character-level RNN trained on Shakespeare | PyTorch, RNN |
+| 🦷 **[Oral-Disease-RAG-Classifier](https://huggingface.co/spaces/MubashirUlHassan/Oral-Disease-RAG-Classifier)** | Oral disease diagnosis + RAG medicine recommendations | DL, RAG |
 
 </div>
 
