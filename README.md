@@ -81,24 +81,11 @@ class MubashirUlHassan:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mubashir-Ul-Hassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir-Ul-Hassan&theme=tokyonight&hide_border=true&background=0D1117" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir-Ul-Hassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mubashir-Ul-Hassan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Mubashir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mubashir-Ul-Hassan&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -119,16 +106,6 @@ class MubashirUlHassan:
 <div align="center">
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Mubashir-Ul-Hassan/Mubashir-Ul-Hassan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
