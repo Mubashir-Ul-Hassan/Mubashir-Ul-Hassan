@@ -91,6 +91,10 @@ class MubashirUlHassan:
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/Mubashir-Ul-Hassan/Mubashir-Ul-Hassan/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## 🎯 2026 Goals
 
 - [ ] Master **Generative AI** and build production RAG systems
