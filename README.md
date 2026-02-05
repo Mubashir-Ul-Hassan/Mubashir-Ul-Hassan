@@ -75,7 +75,7 @@ class MubashirUlHassan:
 |---------|-------------|------------|
 | 🐦 **[Twitter Sentiment Analyzer](https://huggingface.co/spaces/MubashirUlHassan/Twitter-Sentiment-Analyzer)** | NLP app for real-time tweet sentiment analysis | DistilBERT, Gradio, HF |
 | 📊 **[Prompt2SQL](https://huggingface.co/spaces/MubashirUlHassan/Prompt2SQL)** | Natural Language to SQL Query Conversion Using Generative AI | Gemini API, Streamlit |
-| 🦷 **[Oral-Disease-RAG-Classifier](https://huggingface.co/spaces/MubashirUlHassan/Oral-Disease-RAG-Classifier)** | Oral disease diagnosis + RAG medicine recommendations | DL, RAG |
+| 🦷 **[Oral-Disease-RAG-Classifier](https://huggingface.co/spaces/MubashirUlHassan/Oral-Disease-RAG-Classifier)** | Oral disease diagnosis + RAG medicine recommendations | DL, RAG, Gradio |
 
 </div>
 
