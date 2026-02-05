@@ -74,7 +74,7 @@ class MubashirUlHassan:
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🐦 **[Twitter Sentiment Analyzer](https://huggingface.co/spaces/MubashirUlHassan/Twitter-Sentiment-Analyzer)** | NLP app for real-time tweet sentiment analysis | DistilBERT, Gradio, HF |
-| 📊 **Data Analytics Dashboard** | Interactive Power BI dashboard for insights | Power BI, SQL |
+| 📊 **[Prompt2SQL](https://huggingface.co/spaces/MubashirUlHassan/Prompt2SQL)** | Natural Language to SQL Query Conversion Using Generative AI | Gemini API, Streamlit |
 | 🦷 **[Oral-Disease-RAG-Classifier](https://huggingface.co/spaces/MubashirUlHassan/Oral-Disease-RAG-Classifier)** | Oral disease diagnosis + RAG medicine recommendations | DL, RAG |
 
 </div>
