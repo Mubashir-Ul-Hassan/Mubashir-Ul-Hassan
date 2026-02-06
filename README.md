@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/mubashir-ul-hassan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akhtarmubashir809@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://huggingface.co/MubashirUlHassan"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" /></a>
+  <a href="https://www.kaggle.com/mubashirulhassan00"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Mubashir-Ul-Hassan&style=for-the-badge&color=6C63FF" alt="Profile Views" />
